@@ -1,0 +1,29 @@
+_repo: Hatchie-the-Guardian-Slave--or-The-Heiress-of-Bellevue--13-A-Tale-of-the-Mississippi-and-the-__14731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ashton, Warren T.
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '5655'
+    url: http://www.gutenberg.org/2009/agents/5655
+    wikipedia: http://www.gutenberg.org/browse/authors/o#a260
+description: ''
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Slaves -- United States -- Fiction'
+title: "Hatchie, the Guardian Slave; or, The Heiress of Bellevue\r\nA Tale of the\
+  \ Mississippi and the South-west"
+url: http://www.gutenberg.org/ebooks/14731
